@@ -1,0 +1,9 @@
+noisereduce
+pyannote.audio
+pydub
+numpy
+librosa
+torch
+noisereduce
+datetime
+transformers

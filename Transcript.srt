@@ -1,0 +1,104 @@
+1
+00:00:00,080 --> 00:00:01,350
+SPEAKER_00:  Ravi, bring me a cup of coffee.
+
+2
+00:00:01,870 --> 00:00:02,260
+SPEAKER_00:  So, what?
+
+3
+00:00:03,860 --> 00:00:04,170
+SPEAKER_01:  No.
+
+4
+00:00:04,920 --> 00:00:05,630
+SPEAKER_01:  Hey Shetty!
+
+5
+00:00:07,050 --> 00:00:08,100
+SPEAKER_01:  You have two options.
+
+6
+00:00:09,030 --> 00:00:09,720
+SPEAKER_01:  Leave us.
+
+7
+00:00:10,800 --> 00:00:13,780
+SPEAKER_01:  You'll get so much money that you won't have a place to stay in this police station.
+
+8
+00:00:15,200 --> 00:00:15,220
+SPEAKER_01:  Welcome to our Channel.
+
+9
+00:00:15,220 --> 00:00:15,250
+SPEAKER_02:  Welcome to our Channel.
+
+10
+00:00:15,250 --> 00:00:16,160
+SPEAKER_01:  And the second option
+
+11
+00:00:16,160 --> 00:00:16,180
+SPEAKER_02:  Welcome to our Channel.
+
+12
+00:00:17,010 --> 00:00:17,020
+SPEAKER_01:  Thank you for watching.
+
+13
+00:00:17,020 --> 00:00:18,580
+SPEAKER_02:  You won't be able to save this police station.
+
+14
+00:00:20,480 --> 00:00:21,510
+SPEAKER_02:  You don't know her.
+
+15
+00:00:26,220 --> 00:00:26,950
+SPEAKER_00:  Threatening me?
+
+16
+00:00:27,570 --> 00:00:29,190
+SPEAKER_00:  You are talking about Danger Langa, right?
+
+17
+00:00:30,520 --> 00:00:31,110
+SPEAKER_00:  Who is he?
+
+18
+00:00:33,090 --> 00:00:33,850
+SPEAKER_00:  I know.
+
+19
+00:00:34,190 --> 00:00:35,350
+SPEAKER_00:  The real danger
+
+20
+00:00:35,820 --> 00:00:36,950
+SPEAKER_00:  is waiting for you.
+
+21
+00:00:37,070 --> 00:00:39,750
+SPEAKER_01:  Every officer who wears uniform thinks he is Singham.
+
+22
+00:00:39,770 --> 00:00:40,800
+SPEAKER_00:  Arararara
+
+23
+00:00:41,510 --> 00:00:42,390
+SPEAKER_00:  No, dad.
+
+24
+00:00:43,260 --> 00:00:45,360
+SPEAKER_00:  He is our Guruji.
+
+25
+00:00:46,340 --> 00:00:47,280
+SPEAKER_00:  I am not a Singham.
+
+26
+00:00:48,560 --> 00:00:50,280
+SPEAKER_00:  I am Lady Singham.
+
